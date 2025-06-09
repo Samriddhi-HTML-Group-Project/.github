@@ -25,6 +25,8 @@ Whether you're planning a solo trip or group tour, our app is designed to help y
 - 🧮 Budget & Expense Tracker
 - ❤️ Save Favorites
 - 📝 Travel Notes / Journal
+- 📤 Export Itinerary to PDF
+- 📊 Travel Statistics Summary 
 - 🌐 Responsive Design (Mobile + Desktop)
 - 📍 Interactive Map (Google Maps or Leaflet)
 
